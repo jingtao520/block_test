@@ -15,6 +15,28 @@
 		0911DA551C9FDAD900A94158 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0911DA531C9FDAD900A94158 /* LaunchScreen.storyboard */; };
 		0911DA601C9FDADA00A94158 /* block_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0911DA5F1C9FDADA00A94158 /* block_testTests.m */; };
 		0911DA6B1C9FDADA00A94158 /* block_testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0911DA6A1C9FDADA00A94158 /* block_testUITests.m */; };
+		0911DA7B1C9FDB5A00A94158 /* OneVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0911DA791C9FDB5A00A94158 /* OneVC.m */; };
+		0911DA7C1C9FDB5A00A94158 /* OneVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0911DA7A1C9FDB5A00A94158 /* OneVC.xib */; };
+		0911DA801C9FDB8000A94158 /* TwoVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0911DA7E1C9FDB8000A94158 /* TwoVC.m */; };
+		0911DA811C9FDB8000A94158 /* TwoVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0911DA7F1C9FDB8000A94158 /* TwoVC.xib */; };
+		0940CEAF1CA910C90052946F /* NetRequestTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 0940CEAE1CA910C90052946F /* NetRequestTool.m */; };
+		0940CEB71CAA5EED0052946F /* ThreeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0940CEB51CAA5EED0052946F /* ThreeVC.m */; };
+		0940CEB81CAA5EED0052946F /* ThreeVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEB61CAA5EED0052946F /* ThreeVC.xib */; };
+		0940CEBB1CAA624E0052946F /* CollectModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0940CEBA1CAA624E0052946F /* CollectModel.m */; };
+		0940CEBE1CAA62900052946F /* CollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0940CEBD1CAA62900052946F /* CollectionCell.m */; };
+		0940CECD1CAA69480052946F /* img1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC11CAA69480052946F /* img1.jpg */; };
+		0940CECE1CAA69480052946F /* img10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC21CAA69480052946F /* img10.jpg */; };
+		0940CECF1CAA69480052946F /* img11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC31CAA69480052946F /* img11.jpg */; };
+		0940CED01CAA69480052946F /* img12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC41CAA69480052946F /* img12.jpg */; };
+		0940CED11CAA69480052946F /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC51CAA69480052946F /* img2.jpg */; };
+		0940CED21CAA69480052946F /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC61CAA69480052946F /* img3.jpg */; };
+		0940CED31CAA69480052946F /* img4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC71CAA69480052946F /* img4.jpg */; };
+		0940CED41CAA69480052946F /* img5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC81CAA69480052946F /* img5.jpg */; };
+		0940CED51CAA69480052946F /* img6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CEC91CAA69480052946F /* img6.jpg */; };
+		0940CED61CAA69480052946F /* img7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CECA1CAA69480052946F /* img7.jpg */; };
+		0940CED71CAA69480052946F /* img8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CECB1CAA69480052946F /* img8.jpg */; };
+		0940CED81CAA69480052946F /* img9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0940CECC1CAA69480052946F /* img9.jpg */; };
+		2F75E93E0C0610EEF32F1AA6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A5F9EEE0F392D67DD543681 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +73,38 @@
 		0911DA661C9FDADA00A94158 /* block_testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = block_testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0911DA6A1C9FDADA00A94158 /* block_testUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = block_testUITests.m; sourceTree = "<group>"; };
 		0911DA6C1C9FDADA00A94158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0911DA781C9FDB5A00A94158 /* OneVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneVC.h; sourceTree = "<group>"; };
+		0911DA791C9FDB5A00A94158 /* OneVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneVC.m; sourceTree = "<group>"; };
+		0911DA7A1C9FDB5A00A94158 /* OneVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OneVC.xib; sourceTree = "<group>"; };
+		0911DA7D1C9FDB8000A94158 /* TwoVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoVC.h; sourceTree = "<group>"; };
+		0911DA7E1C9FDB8000A94158 /* TwoVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoVC.m; sourceTree = "<group>"; };
+		0911DA7F1C9FDB8000A94158 /* TwoVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TwoVC.xib; sourceTree = "<group>"; };
+		0940CEAD1CA910C90052946F /* NetRequestTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetRequestTool.h; sourceTree = "<group>"; };
+		0940CEAE1CA910C90052946F /* NetRequestTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetRequestTool.m; sourceTree = "<group>"; };
+		0940CEB21CA912F20052946F /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
+		0940CEB31CA916440052946F /* Block.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Block.pch; sourceTree = "<group>"; };
+		0940CEB41CAA5EED0052946F /* ThreeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeVC.h; sourceTree = "<group>"; };
+		0940CEB51CAA5EED0052946F /* ThreeVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeVC.m; sourceTree = "<group>"; };
+		0940CEB61CAA5EED0052946F /* ThreeVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThreeVC.xib; sourceTree = "<group>"; };
+		0940CEB91CAA624E0052946F /* CollectModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectModel.h; sourceTree = "<group>"; };
+		0940CEBA1CAA624E0052946F /* CollectModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectModel.m; sourceTree = "<group>"; };
+		0940CEBC1CAA62900052946F /* CollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionCell.h; sourceTree = "<group>"; };
+		0940CEBD1CAA62900052946F /* CollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionCell.m; sourceTree = "<group>"; };
+		0940CEC11CAA69480052946F /* img1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img1.jpg; sourceTree = "<group>"; };
+		0940CEC21CAA69480052946F /* img10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img10.jpg; sourceTree = "<group>"; };
+		0940CEC31CAA69480052946F /* img11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img11.jpg; sourceTree = "<group>"; };
+		0940CEC41CAA69480052946F /* img12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img12.jpg; sourceTree = "<group>"; };
+		0940CEC51CAA69480052946F /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		0940CEC61CAA69480052946F /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
+		0940CEC71CAA69480052946F /* img4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img4.jpg; sourceTree = "<group>"; };
+		0940CEC81CAA69480052946F /* img5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img5.jpg; sourceTree = "<group>"; };
+		0940CEC91CAA69480052946F /* img6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img6.jpg; sourceTree = "<group>"; };
+		0940CECA1CAA69480052946F /* img7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img7.jpg; sourceTree = "<group>"; };
+		0940CECB1CAA69480052946F /* img8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img8.jpg; sourceTree = "<group>"; };
+		0940CECC1CAA69480052946F /* img9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img9.jpg; sourceTree = "<group>"; };
+		28964EFECB5A2E62B7A60189 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		2A5F9EEE0F392D67DD543681 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		96A1CBB4CB8E278181550B99 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +112,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F75E93E0C0610EEF32F1AA6 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,10 +136,25 @@
 		0911DA391C9FDAD900A94158 = {
 			isa = PBXGroup;
 			children = (
+				0940CEBF1CAA683F0052946F /* images */,
+				0940CEB01CA911580052946F /* Config */,
+				0940CEAC1CA910A10052946F /* Tools */,
+				098817C71CA9100E00DC7545 /* Controllers */,
+				098817C81CA9100E00DC7545 /* Libs */,
+				098817C91CA9100E00DC7545 /* Model */,
+				098817CA1CA9100E00DC7545 /* View */,
+				0911DA781C9FDB5A00A94158 /* OneVC.h */,
+				0911DA791C9FDB5A00A94158 /* OneVC.m */,
+				0911DA7A1C9FDB5A00A94158 /* OneVC.xib */,
+				0911DA7D1C9FDB8000A94158 /* TwoVC.h */,
+				0911DA7E1C9FDB8000A94158 /* TwoVC.m */,
+				0911DA7F1C9FDB8000A94158 /* TwoVC.xib */,
 				0911DA441C9FDAD900A94158 /* block_test */,
 				0911DA5E1C9FDADA00A94158 /* block_testTests */,
 				0911DA691C9FDADA00A94158 /* block_testUITests */,
 				0911DA431C9FDAD900A94158 /* Products */,
+				9C8205251C0DD781A88BAC40 /* Pods */,
+				1FF61ACD36A7EF29A05269A2 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -140,6 +210,103 @@
 			path = block_testUITests;
 			sourceTree = "<group>";
 		};
+		0940CEAC1CA910A10052946F /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEAD1CA910C90052946F /* NetRequestTool.h */,
+				0940CEAE1CA910C90052946F /* NetRequestTool.m */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		0940CEB01CA911580052946F /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEB21CA912F20052946F /* Config.h */,
+				0940CEB31CA916440052946F /* Block.pch */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		0940CEBF1CAA683F0052946F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEC01CAA69480052946F /* images */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		0940CEC01CAA69480052946F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEC11CAA69480052946F /* img1.jpg */,
+				0940CEC21CAA69480052946F /* img10.jpg */,
+				0940CEC31CAA69480052946F /* img11.jpg */,
+				0940CEC41CAA69480052946F /* img12.jpg */,
+				0940CEC51CAA69480052946F /* img2.jpg */,
+				0940CEC61CAA69480052946F /* img3.jpg */,
+				0940CEC71CAA69480052946F /* img4.jpg */,
+				0940CEC81CAA69480052946F /* img5.jpg */,
+				0940CEC91CAA69480052946F /* img6.jpg */,
+				0940CECA1CAA69480052946F /* img7.jpg */,
+				0940CECB1CAA69480052946F /* img8.jpg */,
+				0940CECC1CAA69480052946F /* img9.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		098817C71CA9100E00DC7545 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEB41CAA5EED0052946F /* ThreeVC.h */,
+				0940CEB51CAA5EED0052946F /* ThreeVC.m */,
+				0940CEB61CAA5EED0052946F /* ThreeVC.xib */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		098817C81CA9100E00DC7545 /* Libs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Libs;
+			sourceTree = "<group>";
+		};
+		098817C91CA9100E00DC7545 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEB91CAA624E0052946F /* CollectModel.h */,
+				0940CEBA1CAA624E0052946F /* CollectModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		098817CA1CA9100E00DC7545 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0940CEBC1CAA62900052946F /* CollectionCell.h */,
+				0940CEBD1CAA62900052946F /* CollectionCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1FF61ACD36A7EF29A05269A2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2A5F9EEE0F392D67DD543681 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9C8205251C0DD781A88BAC40 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				28964EFECB5A2E62B7A60189 /* Pods.debug.xcconfig */,
+				96A1CBB4CB8E278181550B99 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +314,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0911DA6F1C9FDADA00A94158 /* Build configuration list for PBXNativeTarget "block_test" */;
 			buildPhases = (
+				5BE6F1A45718493F3D6938E5 /* Check Pods Manifest.lock */,
 				0911DA3E1C9FDAD900A94158 /* Sources */,
 				0911DA3F1C9FDAD900A94158 /* Frameworks */,
 				0911DA401C9FDAD900A94158 /* Resources */,
+				C68E1B9654A9C65599BE9C91 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -243,9 +412,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0911DA811C9FDB8000A94158 /* TwoVC.xib in Resources */,
+				0940CED51CAA69480052946F /* img6.jpg in Resources */,
 				0911DA551C9FDAD900A94158 /* LaunchScreen.storyboard in Resources */,
+				0940CECD1CAA69480052946F /* img1.jpg in Resources */,
+				0911DA7C1C9FDB5A00A94158 /* OneVC.xib in Resources */,
 				0911DA521C9FDAD900A94158 /* Assets.xcassets in Resources */,
+				0940CED31CAA69480052946F /* img4.jpg in Resources */,
+				0940CED71CAA69480052946F /* img8.jpg in Resources */,
 				0911DA501C9FDAD900A94158 /* Main.storyboard in Resources */,
+				0940CED01CAA69480052946F /* img12.jpg in Resources */,
+				0940CED21CAA69480052946F /* img3.jpg in Resources */,
+				0940CECE1CAA69480052946F /* img10.jpg in Resources */,
+				0940CED61CAA69480052946F /* img7.jpg in Resources */,
+				0940CED81CAA69480052946F /* img9.jpg in Resources */,
+				0940CEB81CAA5EED0052946F /* ThreeVC.xib in Resources */,
+				0940CED41CAA69480052946F /* img5.jpg in Resources */,
+				0940CED11CAA69480052946F /* img2.jpg in Resources */,
+				0940CECF1CAA69480052946F /* img11.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,14 +449,53 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5BE6F1A45718493F3D6938E5 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C68E1B9654A9C65599BE9C91 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0911DA3E1C9FDAD900A94158 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0940CEBB1CAA624E0052946F /* CollectModel.m in Sources */,
 				0911DA4D1C9FDAD900A94158 /* ViewController.m in Sources */,
+				0940CEB71CAA5EED0052946F /* ThreeVC.m in Sources */,
+				0940CEBE1CAA62900052946F /* CollectionCell.m in Sources */,
+				0911DA7B1C9FDB5A00A94158 /* OneVC.m in Sources */,
 				0911DA4A1C9FDAD900A94158 /* AppDelegate.m in Sources */,
+				0911DA801C9FDB8000A94158 /* TwoVC.m in Sources */,
 				0911DA471C9FDAD900A94158 /* main.m in Sources */,
+				0940CEAF1CA910C90052946F /* NetRequestTool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,8 +634,10 @@
 		};
 		0911DA701C9FDADA00A94158 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 28964EFECB5A2E62B7A60189 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Config/Block.pch";
 				INFOPLIST_FILE = block_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zdsd.block-test";
@@ -422,8 +647,10 @@
 		};
 		0911DA711C9FDADA00A94158 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 96A1CBB4CB8E278181550B99 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/Config/Block.pch";
 				INFOPLIST_FILE = block_test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zdsd.block-test";
@@ -498,6 +725,7 @@
 				0911DA711C9FDADA00A94158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0911DA721C9FDADA00A94158 /* Build configuration list for PBXNativeTarget "block_testTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +734,7 @@
 				0911DA741C9FDADA00A94158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0911DA751C9FDADA00A94158 /* Build configuration list for PBXNativeTarget "block_testUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +743,7 @@
 				0911DA771C9FDADA00A94158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
